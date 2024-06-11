@@ -1,5 +1,5 @@
-## Monorepo for FWP A2
+## Loop Cinemas Project 
 
-### Student 1 Name / Number: Christopher Santamaria / s3718165
+### Made by: Christopher Santamaria and Quang Minh Duong
 
-### Student 2 Name / Number: Quang Minh Duong / s3759757
+
