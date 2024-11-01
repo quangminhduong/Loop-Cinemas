@@ -3,7 +3,7 @@
 ### Made by: Christopher Santamaria and Quang Minh Duong
 
 ### Description:
-#### A cinema website project made with React, Tailwind, Express.js, GrappQL with database being hosted on phpMyAdmin
+#### A cinema website project made with React, Tailwind, Express.js, GraphQL with database being hosted on phpMyAdmin
 #### The website is made up of four different components:
 ##### - Frontend
 ##### - Backend
